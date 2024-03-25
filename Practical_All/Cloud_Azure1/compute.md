@@ -1,10 +1,11 @@
 **** All Concepts ***
------------------------
+---------------------------------------------------------------------------
 ********* Below Task need to perform from ****************
    * 1) Terraform
    * 2) Azure Cli or ARM templates
    * 3) Portal
-********* Below Task need to perform from ****************                                  
+********* Below Task need to perform from ****************    
+-----------------------------------------------------------------------------                              
 * SSH Key authentication
     * key genration (Private & Public)-- sshkeygen
     * key import to Any cloud 

@@ -2,7 +2,8 @@
    * 1) Terraform
    * 2) Azure Cli or ARM templates
    * 3) Portal
-********* Below Task need to perform from ****************   
+********* Below Task need to perform from ****************  
+------------------------------------------------------------------------- 
 * CIDR Notation Need to understand
 * Network Related Components:
    * Creating VNETS, Subnets
