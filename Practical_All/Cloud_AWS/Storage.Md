@@ -7,7 +7,6 @@
    * 3) Portal
 ********* Below Task need to perform from ****************    
 -----------------------------------------------------------------------------  
-
 * Storage KepPoints:
       *  Storage types
       *  Creation of simple storage service (s3) and each and evry step need to known
@@ -39,4 +38,4 @@
             * OpenZFS
             * Lustre
     
-----------------------
+----------------------------------------------------------------------------
