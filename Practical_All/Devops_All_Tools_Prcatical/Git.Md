@@ -14,6 +14,7 @@
    *  git config --global user.name "<username>"
    *  git config --global user.email "<email>"
    *  git init
-   *  touch 1.txt for linux file cration
-   *  New-Item 1.txt fir windows file creation
+   *  file creation in lin/win VMs 
+           *  touch 1.txt for linux file cration
+           *  New-Item 1.txt fir windows file creation
 
