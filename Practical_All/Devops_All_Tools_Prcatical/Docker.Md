@@ -45,6 +45,8 @@
           * Docker pull
     * Docker Compose
     * Docker Swarm
+    * Docker push registry to Dockerhub/ ACR/ ECR / Jfrog
+
 
 -----------------------------------
 * Conceptual Understangs:
